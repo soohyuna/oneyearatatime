@@ -1,4 +1,6 @@
-baseurl = "/"
+baseurl = ""
+publishDir = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 languageCode = "en-us"
 title = "Future imperfect"
 theme = "hugo-future-imperfect"

@@ -3,9 +3,9 @@ author = "Soo."
 categories = ["NFL", "ECT"]
 date = "2018-02-09"
 description = ""
-featured = "pic03.jpg"
-featuredalt = "Pic 3"
-featuredpath = "date"
+featured = ""
+featuredalt = ""
+featuredpath = ""
 linktitle = ""
 title = "Tackling the ECT"
 type = "post"
@@ -42,7 +42,7 @@ _Here are the equipments we took on the trip_. We both were new to hiking long d
 ![Imgur](https://i.imgur.com/runupvz.jpg) ![Imgur](https://i.imgur.com/sDUVVhT.jpg)
 
 
-## Food: What's for dinner? :sushi: :rice_ball: :fish_cake: :rice: 
+## Food: What's for dinner? :sushi: :rice_ball: :fish_cake:
 Food wise, we went the simpliest, but perhaps the most expensive way of purchasing pre-packaged dehydrated meals called **Backpacker's Pantry** from the store **Atmosphere** in Kingston, Canada. They range from $9 CAD to $15, so they will add up if you are going to have one for dinner every single day. They are worth the cost, though. You will not believe how much calories you burn when you hike 8-10hrs a day. The Katmandu curry is delicious, so is the Pad Thai, and the Spicy Thai with Peanut Sauce. Check the calories on the back of the package to see how much you are consuming. Man, at the end of 12hr+ walk, we consummed it like it was all we had. I tried one for dinner after the trip, and I couldn't believe how much food there was in the package, which I had to separate into two meals. Then you wonder how you were able to consume all that food during the hike. And you want to go back for more (because you can eat so much more, really). ![](/img/poutine.jpg)
 
 ## What is for breakfast? 

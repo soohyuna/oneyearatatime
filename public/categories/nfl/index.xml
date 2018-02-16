@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NFL on Future imperfect</title>
-    <link>/categories/nfl/</link>
+    <link>/soohyuna/oneyearatatime/categories/nfl/</link>
     <description>Recent content in NFL on Future imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/nfl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/soohyuna/oneyearatatime/categories/nfl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tackling the ECT</title>
-      <link>/blog/migrate-from-jekyll/</link>
+      <link>/soohyuna/oneyearatatime/blog/migrate-from-jekyll/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/migrate-from-jekyll/</guid>
+      <guid>/soohyuna/oneyearatatime/blog/migrate-from-jekyll/</guid>
       <description>In August of 2016, my cousin - Karen - and I hiked the East Coast Trail (ECT), from Cappehayden to St. John&amp;rsquo;s, Newfoundland and Laborador. We took hundreds of photos, and countless videoclips in the hopes of making a memoryclip of ourselves tackling the 200+km hiking trail over 2 weeks period. It took us 12 days and we ended up spending 2 days at St. John&amp;rsquo;s gaining back all the weight we lost, eating moose poutine and fish and chips, but it was all worth it.</description>
     </item>
     
