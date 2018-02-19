@@ -68,7 +68,6 @@ And of course, even though we carried bear bells to warn off any potential bears
 ![Imgur](https://i.imgur.com/Lk9gaIL.jpg)
 ![Imgur](https://i.imgur.com/55PeZap.jpg)
 ![Imgur](https://i.imgur.com/zJY7aVe.jpg)
-![Imgur](https://i.imgur.com/zJY7aVe.jpg)
 
 ### Puffins :bird: 
 ![Imgur](https://i.imgur.com/Q4KxG44.jpg)
