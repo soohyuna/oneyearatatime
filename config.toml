@@ -1,4 +1,4 @@
-baseurl = "https://oneyearatatime.org/"
+baseurl = "/"
 publishDir = "publish"
 languageCode = "en-us"
 title = "Future imperfect"
